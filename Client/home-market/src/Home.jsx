@@ -20,7 +20,7 @@ const Home = () => {
         />
           <Carousel.Caption>
 
-              <h5>First slide label</h5>
+              <h5>First slide label yes </h5>
               <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
               <Link to="/search">
                   <Button className="border text-dark bg-white" variant="dark">SHOP NOW</Button>
